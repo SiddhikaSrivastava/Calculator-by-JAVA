@@ -1,2 +1,3 @@
 # Calculator-by-JAVA
-Java
+Learn to make calculator by java
+Simplest way
